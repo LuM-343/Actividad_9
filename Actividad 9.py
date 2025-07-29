@@ -1,6 +1,6 @@
 # Programación Avanzada - Actividad No. 8
 # Luis Manuel Velásquez González 1502325
-
+#hola
 libros=[]
 
 def validar(dato):
